@@ -122,5 +122,4 @@ Make sure you have **Node.js** installed.
 
 To start the server:
 node app.js
-```
-```
+
