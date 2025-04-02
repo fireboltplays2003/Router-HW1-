@@ -113,9 +113,6 @@ Access them via:
 http://localhost:3000/index.html
 http://localhost:3000/styles.css
 ```
-
----
-
 ### 🚀 Run the Server
 
 Make sure you have **Node.js** installed.
