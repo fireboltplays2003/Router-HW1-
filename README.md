@@ -1,5 +1,3 @@
-Based on your project files, here’s a customized `README.md` that matches the style of the example you gave — but tailored to your current Express project:
-
 ---
 
 ## 🖥️ Express Server for Users and Products API
