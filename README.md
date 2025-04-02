@@ -1,5 +1,3 @@
----
-
 ```markdown
 ## 🖥️ Express Server for Users and Products API
 
@@ -127,7 +125,3 @@ To start the server:
 node app.js
 ```
 ```
-
----
-
-Let me know if you want me to turn this into a downloadable `README.md` file!
