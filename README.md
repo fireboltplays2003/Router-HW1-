@@ -1,5 +1,8 @@
+Perfect, thanks for the heads up! Here's your fixed and cleaned-up `README.md` content — **no YAML errors**, no unnecessary `npm start`, and ready to use as a Markdown file (`README.md`):
+
 ---
 
+```markdown
 ## 🖥️ Express Server for Users and Products API
 
 ### 📄 Description
@@ -119,19 +122,14 @@ http://localhost:3000/styles.css
 
 ### 🚀 Run the Server
 
-Make sure you have **Node.js** and **npm** installed.
+Make sure you have **Node.js** installed.
 
-1. Install dependencies:
+To start the server:
 ```bash
-npm install
+node app.js
+```
 ```
 
-2. Start the server:
-```bash
-npm start
-```
+---
 
-3. Visit:
-```
-http://localhost:3000
-```
+Let me know if you want me to turn this into a downloadable `README.md` file!
