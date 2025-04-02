@@ -121,7 +121,6 @@ http://localhost:3000/styles.css
 Make sure you have **Node.js** installed.
 
 To start the server:
-```bash
 node app.js
 ```
 ```
